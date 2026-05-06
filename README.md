@@ -6,7 +6,7 @@
 
 <p align="center">
   ✨ Welcome to my personal portfolio website! ✨ <br>
-  Built with passion, coffee ☕, and a little bit of chaos.
+  Built with passion, coffee ☕, and a little bit of Something lol xdxd.
 </p>
 
 ---
